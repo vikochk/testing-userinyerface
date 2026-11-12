@@ -1,0 +1,5 @@
+pytest==7.4.4
+selenium==4.24.0
+pyperclip==1.11.0
+py_selenium_auto==0.4.7
+pydantic==2.12.5
